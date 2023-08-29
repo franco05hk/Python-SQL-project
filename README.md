@@ -1,5 +1,6 @@
 # Python&SQL project
- 
+ ![image](https://github.com/franco05hk/Python-SQL-project/assets/71271948/5a7c3189-b8ef-475d-90b7-149c176c5e63)
+
 # DVD Store Analysis
 This repository contains a Jupyter Notebook with an analysis of a DVD store's dataset. The analysis covers various tasks, including plotting revenue trends, performing sentiment analysis on movie descriptions, visualizing revenue distribution by country, identifying top revenue-generating actors, and classifying countries based on categories.
 
