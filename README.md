@@ -15,7 +15,16 @@ Country Classification: Creating a new DataFrame to classify countries into cate
 Data Merging: Merging the country classification with the DVD store's data.
 
 # How to Use
-Clone this repository to your computer.
-Make sure you have Python 3.x and Jupyter Notebook installed.
-Open and run the DVD_Store_Analysis.ipynb notebook using Jupyter Notebook.
+You may view the source code and output directly by clicking into the ipynb files.
+For sql and csv, SQL query is in the .sql files and the output excel is in the .csv files.
+You can also run it on your local environment if you have the softwares installed.
 Explore the analysis, code, and visualizations.
+
+# Questions
+1. **Time-Series Revenue Plot**: A plot showing daily revenue trends for three different countries.
+2. **Sentiment Analysis**: Analyzing movie descriptions for sentiment and adding a classification column.
+3. **Revenue Distribution**: A visual showing revenue distribution from different countries to the DVD store.
+4. **Top Actors**: Identifying the top 10 revenue-generating actors.
+5. **Country Classification**: Creating a new DataFrame to classify countries into categories.
+6. **Data Merging**: Merging the country classification with the DVD store's data.
+
